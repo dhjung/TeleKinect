@@ -1,0 +1,159 @@
+C:\Users\dhjung\Dropbox\HCI ideas\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\KinectWhiteboard.exe
+C:\Users\dhjung\Dropbox\HCI ideas\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\KinectWhiteboard.pdb
+C:\Users\dhjung\Dropbox\HCI ideas\KinectWhiteboard\KinectWhiteboard\bin\Debug\KinectWhiteboard.exe
+C:\Users\dhjung\Dropbox\HCI ideas\KinectWhiteboard\KinectWhiteboard\bin\Debug\KinectWhiteboard.pdb
+C:\Users\dhjung\Dropbox\HCI ideas\KinectWhiteboard\KinectWhiteboard\bin\Debug\Microsoft.Expression.Controls.dll
+C:\Users\dhjung\Dropbox\HCI ideas\KinectWhiteboard\KinectWhiteboard\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\dhjung\Dropbox\HCI ideas\KinectWhiteboard\KinectWhiteboard\bin\Debug\Microsoft.Expression.Controls.xml
+C:\Users\dhjung\Dropbox\HCI ideas\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dhjung\Dropbox\HCI ideas\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\KinectCursor.baml
+C:\Users\dhjung\Dropbox\HCI ideas\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\Styles\CursorStyles.baml
+C:\Users\dhjung\Dropbox\HCI ideas\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\KinectCursor.g.cs
+C:\Users\dhjung\Dropbox\HCI ideas\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\MainWindow.g.cs
+C:\Users\dhjung\Dropbox\HCI ideas\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\App.g.cs
+C:\Users\dhjung\Dropbox\HCI ideas\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dhjung\Dropbox\HCI ideas\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\KinectWhiteboard_MarkupCompile.cache
+C:\Users\dhjung\Dropbox\HCI ideas\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\KinectWhiteboard_MarkupCompile.lref
+C:\Users\dhjung\Dropbox\HCI ideas\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\MainWindow.baml
+C:\Users\dhjung\Dropbox\HCI ideas\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\KinectWhiteboard.g.resources
+C:\Users\dhjung\Dropbox\HCI ideas\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\KinectWhiteboard.Properties.Resources.resources
+C:\Users\dhjung\Dropbox\HCI ideas\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dhjung\Dropbox\HCI ideas\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard\KinectWhiteboard\bin\Debug\KinectWhiteboard.exe.config
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard\KinectWhiteboard\bin\Debug\KinectWhiteboard.exe
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard\KinectWhiteboard\bin\Debug\KinectWhiteboard.pdb
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard\KinectWhiteboard\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard\KinectWhiteboard\bin\Debug\Microsoft.Expression.Controls.dll
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard\KinectWhiteboard\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard\KinectWhiteboard\bin\Debug\Microsoft.Expression.Controls.xml
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\KinectCursor.baml
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\Styles\CursorStyles.baml
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\KinectCursor.g.cs
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\MainWindow.g.cs
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\App.g.cs
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\KinectWhiteboard_MarkupCompile.cache
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\KinectWhiteboard_MarkupCompile.lref
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\MainWindow.baml
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\KinectWhiteboard.g.resources
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\KinectWhiteboard.Properties.Resources.resources
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\KinectWhiteboard.exe
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\KinectWhiteboard.pdb
+C:\WPF\TestingWCF19\KinectWhiteboard\KinectWhiteboard\bin\Debug\KinectWhiteboard.exe.config
+C:\WPF\TestingWCF19\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\KinectWhiteboard.exe
+C:\WPF\TestingWCF19\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\KinectWhiteboard.pdb
+C:\WPF\TestingWCF19\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\WPF\TestingWCF19\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\KinectCursor.baml
+C:\WPF\TestingWCF19\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\Styles\CursorStyles.baml
+C:\WPF\TestingWCF19\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\KinectCursor.g.cs
+C:\WPF\TestingWCF19\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\MainWindow.g.cs
+C:\WPF\TestingWCF19\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\App.g.cs
+C:\WPF\TestingWCF19\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\WPF\TestingWCF19\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\KinectWhiteboard_MarkupCompile.cache
+C:\WPF\TestingWCF19\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\KinectWhiteboard_MarkupCompile.lref
+C:\WPF\TestingWCF19\KinectWhiteboard\KinectWhiteboard\bin\Debug\KinectWhiteboard.exe
+C:\WPF\TestingWCF19\KinectWhiteboard\KinectWhiteboard\bin\Debug\KinectWhiteboard.pdb
+C:\WPF\TestingWCF19\KinectWhiteboard\KinectWhiteboard\bin\Debug\Microsoft.Expression.Controls.dll
+C:\WPF\TestingWCF19\KinectWhiteboard\KinectWhiteboard\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\WPF\TestingWCF19\KinectWhiteboard\KinectWhiteboard\bin\Debug\Microsoft.Expression.Controls.xml
+C:\WPF\TestingWCF19\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\MainWindow.baml
+C:\WPF\TestingWCF19\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\KinectWhiteboard.g.resources
+C:\WPF\TestingWCF19\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\KinectWhiteboard.Properties.Resources.resources
+C:\WPF\TestingWCF19\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\WPF\TestingWCF19\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KincetWhiteboard_1\KinectWhiteboard\bin\Debug\KinectWhiteboard.exe.config
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KincetWhiteboard_1\KinectWhiteboard\obj\x86\Debug\KinectWhiteboard.exe
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KincetWhiteboard_1\KinectWhiteboard\obj\x86\Debug\KinectWhiteboard.pdb
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KincetWhiteboard_1\KinectWhiteboard\bin\Debug\KinectWhiteboard.exe
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KincetWhiteboard_1\KinectWhiteboard\bin\Debug\KinectWhiteboard.pdb
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KincetWhiteboard_1\KinectWhiteboard\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KincetWhiteboard_1\KinectWhiteboard\bin\Debug\Microsoft.Expression.Controls.dll
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KincetWhiteboard_1\KinectWhiteboard\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KincetWhiteboard_1\KinectWhiteboard\bin\Debug\Microsoft.Expression.Controls.xml
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KincetWhiteboard_1\KinectWhiteboard\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KincetWhiteboard_1\KinectWhiteboard\obj\x86\Debug\KinectCursor.baml
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KincetWhiteboard_1\KinectWhiteboard\obj\x86\Debug\Styles\CursorStyles.baml
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KincetWhiteboard_1\KinectWhiteboard\obj\x86\Debug\KinectCursor.g.cs
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KincetWhiteboard_1\KinectWhiteboard\obj\x86\Debug\MainWindow.g.cs
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KincetWhiteboard_1\KinectWhiteboard\obj\x86\Debug\App.g.cs
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KincetWhiteboard_1\KinectWhiteboard\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KincetWhiteboard_1\KinectWhiteboard\obj\x86\Debug\KinectWhiteboard_MarkupCompile.cache
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KincetWhiteboard_1\KinectWhiteboard\obj\x86\Debug\KinectWhiteboard_MarkupCompile.lref
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KincetWhiteboard_1\KinectWhiteboard\obj\x86\Debug\MainWindow.baml
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KincetWhiteboard_1\KinectWhiteboard\obj\x86\Debug\KinectWhiteboard.g.resources
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KincetWhiteboard_1\KinectWhiteboard\obj\x86\Debug\KinectWhiteboard.Properties.Resources.resources
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KincetWhiteboard_1\KinectWhiteboard\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KincetWhiteboard_1\KinectWhiteboard\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\WPF\TestingWCF23\KinectWhiteboard\KinectWhiteboard\bin\Debug\KinectWhiteboard.exe.config
+C:\WPF\TestingWCF23\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\KinectWhiteboard.exe
+C:\WPF\TestingWCF23\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\KinectWhiteboard.pdb
+C:\WPF\TestingWCF23\KinectWhiteboard\KinectWhiteboard\bin\Debug\KinectWhiteboard.exe
+C:\WPF\TestingWCF23\KinectWhiteboard\KinectWhiteboard\bin\Debug\KinectWhiteboard.pdb
+C:\WPF\TestingWCF23\KinectWhiteboard\KinectWhiteboard\bin\Debug\Microsoft.Expression.Controls.dll
+C:\WPF\TestingWCF23\KinectWhiteboard\KinectWhiteboard\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\WPF\TestingWCF23\KinectWhiteboard\KinectWhiteboard\bin\Debug\Microsoft.Expression.Controls.xml
+C:\WPF\TestingWCF23\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\WPF\TestingWCF23\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\KinectCursor.baml
+C:\WPF\TestingWCF23\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\Styles\CursorStyles.baml
+C:\WPF\TestingWCF23\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\KinectCursor.g.cs
+C:\WPF\TestingWCF23\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\MainWindow.g.cs
+C:\WPF\TestingWCF23\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\App.g.cs
+C:\WPF\TestingWCF23\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\WPF\TestingWCF23\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\KinectWhiteboard_MarkupCompile.cache
+C:\WPF\TestingWCF23\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\KinectWhiteboard_MarkupCompile.lref
+C:\WPF\TestingWCF23\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\MainWindow.baml
+C:\WPF\TestingWCF23\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\KinectWhiteboard.g.resources
+C:\WPF\TestingWCF23\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\KinectWhiteboard.Properties.Resources.resources
+C:\WPF\TestingWCF23\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\WPF\TestingWCF23\KinectWhiteboard\KinectWhiteboard\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_2\KinectWhiteboard\bin\Debug\KinectWhiteboard.exe.config
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_2\KinectWhiteboard\obj\x86\Debug\KinectWhiteboard.exe
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_2\KinectWhiteboard\obj\x86\Debug\KinectWhiteboard.pdb
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_2\KinectWhiteboard\bin\Debug\KinectWhiteboard.exe
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_2\KinectWhiteboard\bin\Debug\KinectWhiteboard.pdb
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_2\KinectWhiteboard\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_2\KinectWhiteboard\bin\Debug\Microsoft.Expression.Controls.dll
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_2\KinectWhiteboard\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_2\KinectWhiteboard\bin\Debug\Microsoft.Expression.Controls.xml
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_2\KinectWhiteboard\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_2\KinectWhiteboard\obj\x86\Debug\KinectCursor.baml
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_2\KinectWhiteboard\obj\x86\Debug\Styles\CursorStyles.baml
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_2\KinectWhiteboard\obj\x86\Debug\KinectCursor.g.cs
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_2\KinectWhiteboard\obj\x86\Debug\MainWindow.g.cs
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_2\KinectWhiteboard\obj\x86\Debug\App.g.cs
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_2\KinectWhiteboard\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_2\KinectWhiteboard\obj\x86\Debug\KinectWhiteboard_MarkupCompile.cache
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_2\KinectWhiteboard\obj\x86\Debug\KinectWhiteboard_MarkupCompile.lref
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_2\KinectWhiteboard\obj\x86\Debug\MainWindow.baml
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_2\KinectWhiteboard\obj\x86\Debug\KinectWhiteboard.g.resources
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_2\KinectWhiteboard\obj\x86\Debug\KinectWhiteboard.Properties.Resources.resources
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_2\KinectWhiteboard\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_2\KinectWhiteboard\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_2\KinectWhiteboard\obj\x86\Debug\Styles\ButtonStyles.baml
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_3\KinectWhiteboard\bin\Debug\KinectWhiteboard.exe.config
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_3\KinectWhiteboard\bin\Debug\KinectWhiteboard.exe
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_3\KinectWhiteboard\bin\Debug\KinectWhiteboard.pdb
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_3\KinectWhiteboard\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_3\KinectWhiteboard\bin\Debug\Microsoft.Expression.Controls.dll
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_3\KinectWhiteboard\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_3\KinectWhiteboard\bin\Debug\Microsoft.Expression.Controls.xml
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_3\KinectWhiteboard\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_3\KinectWhiteboard\obj\x86\Debug\KinectCursor.baml
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_3\KinectWhiteboard\obj\x86\Debug\Styles\ButtonStyles.baml
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_3\KinectWhiteboard\obj\x86\Debug\Styles\CursorStyles.baml
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_3\KinectWhiteboard\obj\x86\Debug\KinectCursor.g.cs
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_3\KinectWhiteboard\obj\x86\Debug\MainWindow.g.cs
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_3\KinectWhiteboard\obj\x86\Debug\App.g.cs
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_3\KinectWhiteboard\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_3\KinectWhiteboard\obj\x86\Debug\KinectWhiteboard_MarkupCompile.cache
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_3\KinectWhiteboard\obj\x86\Debug\KinectWhiteboard_MarkupCompile.lref
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_3\KinectWhiteboard\obj\x86\Debug\MainWindow.baml
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_3\KinectWhiteboard\obj\x86\Debug\KinectWhiteboard.g.resources
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_3\KinectWhiteboard\obj\x86\Debug\KinectWhiteboard.Properties.Resources.resources
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_3\KinectWhiteboard\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_3\KinectWhiteboard\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_3\KinectWhiteboard\obj\x86\Debug\KinectWhiteboard.exe
+C:\Users\dhjung\Documents\Visual Studio 2010\Projects\KinectWhiteboard_3\KinectWhiteboard\obj\x86\Debug\KinectWhiteboard.pdb

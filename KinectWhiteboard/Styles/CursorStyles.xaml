@@ -1,0 +1,110 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <SolidColorBrush x:Key="CursorFillBrush"
+                     Color="White" />
+
+    <SolidColorBrush x:Key="WaitCursorHandShadowBrush"
+                     Color="#FF7C7C7C" />
+
+    <SolidColorBrush x:Key="WaitCursorEllipseBasisBrush"
+                     Color="#FFD8D8D8" />
+
+    <SolidColorBrush x:Key="DrawingCursorCenterPointFillBrush"
+                     Color="#FF502D57" />
+
+    <SolidColorBrush x:Key="DrawingCursorCenterPointStrokeBrush"
+                     Color="#FF676767" />
+
+    <SolidColorBrush x:Key="DrawingCursorHandShadowBrush"
+                     Color="#FF565656" />
+
+    <Style x:Key="WaitCursorAnimatedPathStyle"
+           TargetType="{x:Type Path}">
+        <Setter Property="Fill"
+                Value="{StaticResource CursorFillBrush}" />
+        <Setter Property="Margin"
+                Value="0,1,0,0" />
+        <Setter Property="RenderTransform">
+            <Setter.Value>
+                <RotateTransform Angle="-11" />
+            </Setter.Value>
+        </Setter>
+        <Setter Property="RenderTransformOrigin"
+                Value="0.5,0.5" />
+        <Setter Property="Data"
+                Value="M0,0C6.0406139,7.1443707E-07,11.831037,1.0711945,17.191677,3.033987L17.331527,3.0871548 13.910313,12.486865 13.753342,12.42719C9.4648311,10.856954,4.8324917,9.9999987,0,9.9999997z" />
+    </Style>
+
+    <Style x:Key="WaitCursorBasisEllipseStyle"
+           TargetType="{x:Type Ellipse}">
+        <Setter Property="Stroke"
+                Value="{StaticResource WaitCursorEllipseBasisBrush}" />
+        <Setter Property="Opacity"
+                Value="0.5" />
+        <Setter Property="StrokeThickness"
+                Value="10" />
+    </Style>
+
+    <Style x:Key="WaitCursorHandStyle"
+           TargetType="{x:Type Path}">
+        <Setter Property="Data"
+                Value="M22.592491,0.00035040345C22.634185,0.0010992817 22.67606,0.0030540064 22.718089,0.0062411212 24.063987,0.10926639 25.057947,1.4332143 24.942933,2.9671799L23.817999,17.741907C23.788758,18.125147,23.692706,18.484949,23.544061,18.807503L23.487539,18.917034 25.292745,19.599939 26.374971,5.3855039C26.488308,3.9013497 27.604812,2.7663163 28.897209,2.7913791 28.9389,2.7921878 28.980773,2.7942034 29.022801,2.797454 30.368714,2.8984555 31.36465,4.2244808 31.247658,5.7565099L30.12273,20.531794C30.101169,20.819237,30.041958,21.093496,29.951108,21.348744L29.946369,21.360394 31.630149,21.997362 32.422408,11.593475C32.535757,10.108369 33.650509,8.9733163 34.944754,8.9983789 34.986504,8.9991876 35.02844,9.0012027 35.070536,9.0044528 36.416601,9.1054536 37.410648,10.431465 37.293644,11.965478L36.392462,23.798935 36.392847,23.79908C36.784845,50.084408 18.357886,45.666351 18.357886,45.666351 8.3659077,46.273361 1.1389236,26.649115 1.1389236,26.649115 -1.8490715,20.55304 1.9869213,19.309023 1.9869213,19.309023 4.3439159,18.071009 6.8319111,21.897057 6.8319111,21.897057 10.826902,30.077158 11.5859,27.934132 11.5859,27.934132L12.622898,14.806967 12.624848,14.807704 13.330432,5.5412823C13.441844,4.05713 14.556532,2.9220971 15.85077,2.9453424 15.892521,2.9460918 15.934457,2.9480468 15.976552,2.9512345 17.320614,3.0542365 18.31666,4.3802611 18.199654,5.9122898L17.385198,16.608532 18.958025,17.203529 20.068222,2.5962159C20.181563,1.1121081,21.299967,-0.022884519,22.592491,0.00035040345z" />
+        <Setter Property="Margin"
+                Value="-4,0,0,0" />
+        <Setter Property="Width"
+                Value="37.304" />
+        <Setter Property="Height"
+                Value="45.946" />
+        <Setter Property="Stretch"
+                Value="Fill" />
+        <Setter Property="HorizontalAlignment"
+                Value="Center" />
+        <Setter Property="VerticalAlignment"
+                Value="Center" />
+    </Style>
+
+    <Style x:Key="DrawingCursorHandStyle"
+           TargetType="{x:Type Path}">
+        <Setter Property="Data"
+                Value="F1M288.449,333.027C285.019,333.948,283.08,337.865,284.124,341.77L284.124,341.77 294.096,379.018 289.668,378.91 282.371,351.634C281.328,347.73,277.699,345.304,274.27,346.217L274.27,346.217C270.835,347.139,268.906,351.053,269.954,354.956L269.954,354.956 276.276,378.586 276.271,378.586 285.135,412.092C285.135,412.092,285.115,418.076,268.068,401.242L268.068,401.242C268.068,401.242,258.553,393.907,253.777,399.035L253.777,399.035C253.777,399.035,245.333,405.469,258.069,418.005L258.069,418.005C258.069,418.005,293.116,460.447,317.404,450.232L317.404,450.232C317.404,450.232,367.025,445.146,343.145,380.206L343.145,380.206 343.141,380.206 335.068,350.031C334.023,346.12,330.398,343.692,326.969,344.614L326.969,344.614C323.53,345.529,321.602,349.442,322.646,353.354L322.646,353.354 329.745,379.882 325.009,379.767C325.015,379.043,324.926,378.299,324.724,377.554L324.724,377.554 314.645,339.876C313.601,335.972,309.971,333.546,306.54,334.466L306.54,334.466C303.107,335.38,301.174,339.295,302.219,343.202L302.219,343.202 311.916,379.449 306.84,379.327C306.979,378.301,306.927,377.212,306.636,376.12L306.636,376.12 296.555,338.442C295.655,335.093,292.863,332.834,289.922,332.834L289.922,332.834C289.432,332.834,288.939,332.897,288.449,333.027" />
+        <Setter Property="Stretch"
+                Value="Fill" />
+        <Setter Property="Fill"
+                Value="{StaticResource CursorFillBrush}" />
+        <Setter Property="OpacityMask">
+            <Setter.Value>
+                <RadialGradientBrush GradientOrigin="0.696,0.7">
+                    <GradientStop Color="#A9000000"
+                                  Offset="0" />
+                    <GradientStop Color="White"
+                                  Offset="1" />
+                </RadialGradientBrush>
+            </Setter.Value>
+        </Setter>
+        <Setter Property="Width"
+                Value="98.61" />
+        <Setter Property="Height"
+                Value="118.985" />
+    </Style>
+
+    <Style x:Key="DrawingCursorCenterPointStyle"
+           TargetType="{x:Type Ellipse}">
+        <Setter Property="Fill"
+                Value="{StaticResource DrawingCursorCenterPointFillBrush}" />
+        <Setter Property="Stroke"
+                Value="{StaticResource DrawingCursorCenterPointStrokeBrush}" />
+        <Setter Property="StrokeThickness"
+                Value="0.5" />
+        <Setter Property="Width"
+                Value="19" />
+        <Setter Property="Height"
+                Value="19" />
+        <Setter Property="HorizontalAlignment"
+                Value="Center" />
+        <Setter Property="VerticalAlignment"
+                Value="Center" />
+        <Setter Property="Margin"
+                Value="29,29,0,0" />
+    </Style>
+</ResourceDictionary>
